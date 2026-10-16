@@ -1,6 +1,6 @@
 {
-  "version": "0.06",
-  "url": "https://raw.githubusercontent.com/Nepitune/idle-cultivation-mod/main/release/mods_v0.06.pck",
-  "sha256": "8fb9536bcbb80bfe8a11071b454431db73033df0350fcf9367470e58639411ff",
-  "notes": "- Fixed 'Save & restart' not starting the game again.\n  (This install still uses the old button; the fix works from the next update on.)"
+  "version": "0.07",
+  "url": "https://raw.githubusercontent.com/Nepitune/idle-cultivation-mod/main/release/mods_v0.07.pck",
+  "sha256": "156747baf7076a476ab921601bcfb1a206fefea85316ca1a4f835a8c232155b9",
+  "notes": "- Sect Glory is now calculated as soon as the game loads (the game only did it when you opened the Sect tab). This fixes the 'Sect 0' in the menu and recruit chances that depend on Glory.\n- Fixed 'Save & restart' (works from v0.06 on)."
 }
