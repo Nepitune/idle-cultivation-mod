@@ -1,6 +1,6 @@
 {
-  "version": "0.05",
-  "url": "https://raw.githubusercontent.com/Nepitune/idle-cultivation-mod/main/release/mods_v0.05.pck",
-  "sha256": "034fd0e880af457b3f25c640c4f03a87c75c1fc62a22204eafffd113385ac83f",
-  "notes": "- The 'Offline' popup is now called 'Offline Progression'."
+  "version": "0.06",
+  "url": "https://raw.githubusercontent.com/Nepitune/idle-cultivation-mod/main/release/mods_v0.06.pck",
+  "sha256": "8fb9536bcbb80bfe8a11071b454431db73033df0350fcf9367470e58639411ff",
+  "notes": "- Fixed 'Save & restart' not starting the game again.\n  (This install still uses the old button; the fix works from the next update on.)"
 }
