@@ -1,6 +1,6 @@
 {
-  "version": "0.11",
-  "url": "https://raw.githubusercontent.com/Nepitune/idle-cultivation-mod/main/release/mods_v0.11.pck",
-  "sha256": "83bab4e46692f3e65a52276fd7daf732ccf6f0d060cf80214e89bafbc6a11461",
-  "notes": "- Auto-Quest now also sends disciples whose realm is below a mission's suggested realm (like 'Select Suggested' does). Before, it skipped such missions completely, even when the success chance was high enough.\n- Slimmer Auto-Quest button with a smaller '(includes Auto-Craft)' line."
+  "version": "0.12",
+  "url": "https://raw.githubusercontent.com/Nepitune/idle-cultivation-mod/main/release/mods_v0.12.pck",
+  "sha256": "b0bcbfc6a81b28781773204fa70b3ec2042ae758cb7b934fc2234cd56352f5a3",
+  "notes": "- Ancient Mine: the XP/h and level-up timer now show what you really earn. Before, the mod's x6 XP bonus was counted twice there, so the timer looked much shorter than it really was.\n- Small cleanup in the mission timing code (no gameplay change).\n- Tested at every sect grade (Mortal to Immortal, building levels 1-60)."
 }
