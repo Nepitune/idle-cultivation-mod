@@ -1,6 +1,6 @@
 {
-  "version": "0.09",
-  "url": "https://raw.githubusercontent.com/Nepitune/idle-cultivation-mod/main/release/mods_v0.09.pck",
-  "sha256": "b9829541a210093416f8fe6127730c78b9b437be461c6c6b2075182f3f78302b",
-  "notes": "- The Palace window is now kept in memory after the first opening: reopening it is about 10x faster and it remembers the tab you were on.\n- While closed it is fully paused, so it does not slow the game down."
+  "version": "0.10",
+  "url": "https://raw.githubusercontent.com/Nepitune/idle-cultivation-mod/main/release/mods_v0.10.pck",
+  "sha256": "4fe6c9640342012902af7d885410a45e72a3d429a86dc4f7614fd979b61f9c9d",
+  "notes": "- Training Hall disciple spots now grow as the game intended: 5 + Training Hall grade + 1 per finished Training research perk (never below the old 10, up to 20)."
 }
