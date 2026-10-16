@@ -1,6 +1,6 @@
 {
-  "version": "0.04",
-  "url": "https://raw.githubusercontent.com/Nepitune/idle-cultivation-mod/main/release/mods_v0.04.pck",
-  "sha256": "e418f372108614871e6820b07428f73e40c8f5fd0096812d78f5e5046c22f146",
-  "notes": "- New updates are now noticed within about a minute (before: up to 5).\n- The title of popups like 'Offline' now has a dark bar, so it is readable.\n- After an update download: 'Save & restart' restarts the game through Steam."
+  "version": "0.05",
+  "url": "https://raw.githubusercontent.com/Nepitune/idle-cultivation-mod/main/release/mods_v0.05.pck",
+  "sha256": "034fd0e880af457b3f25c640c4f03a87c75c1fc62a22204eafffd113385ac83f",
+  "notes": "- The 'Offline' popup is now called 'Offline Progression'."
 }
