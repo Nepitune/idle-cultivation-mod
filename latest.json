@@ -1,6 +1,6 @@
 {
-  "version": "0.07",
-  "url": "https://raw.githubusercontent.com/Nepitune/idle-cultivation-mod/main/release/mods_v0.07.pck",
-  "sha256": "156747baf7076a476ab921601bcfb1a206fefea85316ca1a4f835a8c232155b9",
-  "notes": "- Sect Glory is now calculated as soon as the game loads (the game only did it when you opened the Sect tab). This fixes the 'Sect 0' in the menu and recruit chances that depend on Glory.\n- Fixed 'Save & restart' (works from v0.06 on)."
+  "version": "0.08",
+  "url": "https://raw.githubusercontent.com/Nepitune/idle-cultivation-mod/main/release/mods_v0.08.pck",
+  "sha256": "cb4b7661d6bbb09bba34e948233f4ca83eb3271160f2204be695d283e2a063e5",
+  "notes": "- Opening the Palace no longer freezes: disciple portraits are now drawn in the background shortly after the game starts.\n- The disciple cap tooltip in the Palace now shows the new formula (5 per Palace level)."
 }
