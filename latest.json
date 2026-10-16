@@ -1,6 +1,6 @@
 {
-  "version": "0.10",
-  "url": "https://raw.githubusercontent.com/Nepitune/idle-cultivation-mod/main/release/mods_v0.10.pck",
-  "sha256": "4fe6c9640342012902af7d885410a45e72a3d429a86dc4f7614fd979b61f9c9d",
-  "notes": "- Training Hall disciple spots now grow as the game intended: 5 + Training Hall grade + 1 per finished Training research perk (never below the old 10, up to 20)."
+  "version": "0.11",
+  "url": "https://raw.githubusercontent.com/Nepitune/idle-cultivation-mod/main/release/mods_v0.11.pck",
+  "sha256": "83bab4e46692f3e65a52276fd7daf732ccf6f0d060cf80214e89bafbc6a11461",
+  "notes": "- Auto-Quest now also sends disciples whose realm is below a mission's suggested realm (like 'Select Suggested' does). Before, it skipped such missions completely, even when the success chance was high enough.\n- Slimmer Auto-Quest button with a smaller '(includes Auto-Craft)' line."
 }
