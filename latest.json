@@ -1,6 +1,6 @@
 {
-  "version": "0.02",
-  "url": "https://raw.githubusercontent.com/Nepitune/idle-cultivation-mod/main/release/mods_v0.02.pck",
-  "sha256": "8157ce45cd7a023927a049ec4aa132293becb978b07c2a3a2aa85f17c7a65455",
-  "notes": "- Test update to check the in-game updater.\n- Shows the installed mod version in the bottom-right corner."
+  "version": "0.03",
+  "url": "https://raw.githubusercontent.com/Nepitune/idle-cultivation-mod/main/release/mods_v0.03.pck",
+  "sha256": "302e4fbbc2a959f5d42803cd44daed39c5c529e5e241167fb0755bed8ae20c13",
+  "notes": "- After downloading an update, the button is now 'Save & restart':\n  it saves, closes the game and starts it again through Steam.\n  (You will see the new button from the next update on.)"
 }
