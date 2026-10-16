@@ -3,7 +3,7 @@
 Quality-of-life & balance mod for Idle Cultivation: faster timers, smoother XP curves, Auto-Quest with auto-crafting, live level-up countdowns, resource source breakdown, larger disciple cap, sharper sect & research maps, faster startup, many bug fixes, and an in-game auto-updater.
 
 ## Install (once)
-1. Download [`release/IdleCultivationMod_v0.01.zip`](release/IdleCultivationMod_v0.01.zip).
+1. Download [`release/IdleCultivationMod_v0.11.zip`](release/IdleCultivationMod_v0.11.zip).
 2. In Steam: right-click **Idle Cultivation → Manage → Browse local files**.
 3. Extract the zip into that folder and double-click `install.bat`.
 4. Start the game through Steam as usual.
